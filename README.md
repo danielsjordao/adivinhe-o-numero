@@ -1,5 +1,3 @@
-# Jogo adivinhe o número
-
 # Propostas para o desenvolvimento do jogo em JavaScript
 
 1- Gerar um número aleatório entre 1 e 100.
