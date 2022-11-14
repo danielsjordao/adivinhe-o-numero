@@ -36,3 +36,6 @@
     
 9- Quando reiniciar, tenha certeza de resetar todas as variáveis e a interface do jogo, então volte para o passo 1.
 
+# fonte
+https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/A_first_splash
+
