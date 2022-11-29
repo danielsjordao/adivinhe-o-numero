@@ -2,7 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/101356855/202557783-09dda643-df5e-42be-96bf-91a94ad73d4c.png)
 
-
 1- Gerar um número aleatório entre 1 e 100.
 
 2- Gravar o número do turno que o jogador está. Iniciar em 1.
