@@ -1,4 +1,5 @@
-# Propostas para o desenvolvimento do jogo em JavaScript
+# Propostas para o desenvolvimento do jogo
+## Estruturação lógica em JavaScript
 
 ![image](https://user-images.githubusercontent.com/101356855/202557783-09dda643-df5e-42be-96bf-91a94ad73d4c.png)
 
